@@ -41,6 +41,10 @@ int main()
     cout << "Subject Area is " << subjectArea << endl;
 
     int code;
+    for (unsigned int n = 0; n < 5; n++) {
+
+    }
+
 
     //TO DO: 
     // Now find the module ID number
